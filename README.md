@@ -90,7 +90,7 @@ python recon.py --help
 
 | Target | Notes |
 |--------|-------|
-| `scanme.nmap.org` | Nmap's official test host — always legal |
+| `testfire.net` | testfire.net official test host — always legal |
 | `localhost` / your own VPS | Full control |
 | HackTheBox / TryHackMe VMs | Lab environments with permission |
 | DVWA (Docker) | `docker run -p 80:80 vulnerables/web-dvwa` |
