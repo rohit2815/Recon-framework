@@ -30,14 +30,14 @@ Get a free API key at: https://console.anthropic.com
 ### 3. Run the framework
 
 ```bash
-python recon.py scanme.nmap.org
+python recon.py testfire.net
 ```
 
 ### 4. View the report
 
 ```bash
 python app.py
-# Open: http://127.0.0.1:5000/report/scanme.nmap.org
+# Open: http://127.0.0.1:5000/report/testfire.net
 ```
 
 ---
