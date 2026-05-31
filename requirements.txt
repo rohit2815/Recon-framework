@@ -1,0 +1,6 @@
+python-nmap
+requests
+jinja2
+dnspython
+anthropic
+flask
